@@ -31,3 +31,21 @@
 1.	Printer myPrinter = new Printer();
 
 2.	myPrinter.myprint();
+
+## Create Jar:
+
+# Create Manifest & jar executable
+
+•	Main-Class: School/HelloWorld      ***** followed by 2 spaces then save as manifest.txt******
+
+•	jar -cvfm example.jar manifest.txt School/*.class
+
+1.	Create
+
+2.	Verify
+
+3.	output file name
+
+4.	manifest file that contains the location of your main class
+
+5.	School/*.class all the relevant class
