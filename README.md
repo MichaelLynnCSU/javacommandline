@@ -1,22 +1,22 @@
-## Compile Files Javac:
+# Compile Files Javac:
 
-# Javac classA.java
+## Javac classA.java
 
 •	This creates a .class file associated with the java file
 
 •	You can also run *.java to create class files for all java files
 
 
-## Run Classes Java:
+# Run Classes Java:
 
-# Java classA
+## Java classA
 
 •	Runs the classA.class file
 
 
-## Run multiple class together that are in same package:
+# Run multiple class together that are in same package:
 
-# Java classA
+## Java classA
 
 •	Makes sure all classes are in the same package directory
 
@@ -32,9 +32,9 @@
 
 2.	myPrinter.myprint();
 
-## Create Jar:
+# Create Jar:
 
-# Create Manifest & jar executable
+## Create Manifest & jar executable
 
 •	Main-Class: School/HelloWorld      ***** followed by 2 spaces then save as manifest.txt******
 
